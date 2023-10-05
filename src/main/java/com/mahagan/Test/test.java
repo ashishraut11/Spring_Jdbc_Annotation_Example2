@@ -4,6 +4,7 @@ import com.mahagan.config.ApplicationConfig;
 import com.mahagan.dao.MachineDevice;
 import com.mahagan.model.MachineDevices;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+/*here im going to change the code first time */
 
 public class test {
     public static void main(String[] args) {
