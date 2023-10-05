@@ -1,0 +1,2 @@
+# Spring_Jdbc_Annotation_Example2
+annotation project
