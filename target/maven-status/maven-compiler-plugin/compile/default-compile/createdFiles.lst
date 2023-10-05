@@ -1,0 +1,6 @@
+com\mahagan\Model\MchineDeviceMapper.class
+com\mahagan\Test\test.class
+com\mahagan\config\applicationConfig.class
+com\mahagan\Dao\MachineDeviceIMP.class
+com\mahagan\Dao\MachineDevice.class
+com\mahagan\Model\MachineDevices.class
